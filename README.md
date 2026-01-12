@@ -1,11 +1,1 @@
-ONE STORE is a simple console-based shopping application developed using Java and MySQL.
-
-The application allows users to:
-
-View available products
-
-Place an order
-
-Store order details in the database
-
-This project demonstrates the use of JDBC connectivity, SQL queries, and menu-driven programming in Java.
+ONE STORE is a simple console-based shopping application developed using Java and MySQL. It allows users to view available products, place orders, and store order details in a database. The project uses JDBC to connect Java with MySQL and execute SQL queries.
